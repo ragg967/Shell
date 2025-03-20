@@ -1,4 +1,3 @@
-```markdown
 # Shell
 
 A simple shell made in Go.
@@ -62,6 +61,3 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
-
-Feel free to customize the template according to your project's specific needs. You can add more sections or modify the existing ones as necessary.
